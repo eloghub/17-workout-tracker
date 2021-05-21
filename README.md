@@ -27,10 +27,13 @@ SO THAT I can track of all exercises.
 * when the user loads the page, then they should be able to view the total duration of each workout from the past seven workouts on the `stats` page.
 
 
-
 ## NOTES/CHALLENGES:
 
-+ 
++ lines 2 (seed.js) - creating "db" variable that calls models folder (and index.js)
+
++ lines 1-3 (server.js) - require express, mongoose and morgan
+
++ lines 4-10 (api.js) - created the routes for "/" homepage and "/stats" html file
 
 
 ### WALKTHROUGH VIDEO:
